@@ -9,3 +9,5 @@ This archive contains 7 files:
 - fuzz.py contains a Python script used to anonymize the original data used by the authors for inclusion in this manuscript submission.
 
 - metabolomics_baseline_fuzzed.csv, metabolomics_end_fuzzed.csv, and metadata_fuzzed.csv contain fuzzed versions of the data files used by the authors. Subject names, metabolite names have been masked, and metabolite values have been randomized to ensure privacy.
+
+- Addition 7/27/22: metabolomics_baseline.csv, metabolomics_end.csv, and metadata.csv contain the non-fuzzed (actual) versions of the data files used by the authors.
